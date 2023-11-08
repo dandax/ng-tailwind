@@ -1,0 +1,5 @@
+{
+  "[html, ts]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
